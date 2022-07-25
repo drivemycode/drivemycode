@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @drivemycode, new to programming
 - 👀 I’m interested in learning how things like neural networks work
 - 🌱 I’m currently learning to build my own websites
-- 💞️ I’m looking to collaborate on an interuser level!
-- 📫 How to reach me? Not sure actually
+- 📫 Email: ironboldz@gmail.com
 
 <!---
 drivemycode/drivemycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
