@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @drivemycode, new to programming
-- 👀 I’m interested in learning how things like neural networks work
-- 🌱 I’m currently learning to build my own websites
+- im poop
 - 📫 Email: ironboldz@gmail.com
 
 <!---
