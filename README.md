@@ -1,4 +1,3 @@
-- Currently learning some game making basics via pygame ✔️
 - 📫 Email: ironboldz@gmail.com
 
 <!---
